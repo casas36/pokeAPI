@@ -1,0 +1,52 @@
+{
+    "apiName":"AniPoke",
+    "origin":"CDMX",
+    "created":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Squirtle",
+            "type":"Agua",
+            "height":"18.89",
+            "weight":"0.5",
+            "des":"una tortuga con el poder de controlar el agua",
+            "figure":"https://drive.google.com/uc?export=view&id=1APf_zGsMG5wOvPL-6CESWhdo-9W3Kece"
+        },
+        {
+            "id":2,
+            "name":"Growlithe",
+            "type":"Fuego",
+            "height":"19.0",
+            "weight":"0.69",
+            "des":"perro que tiene el poder de fuego",
+            "figure":"https://drive.google.com/uc?export=view&id=1ozxvx9fgjNthM6A8FjMHFKnlnT8Xrl-X"    
+        },
+        {
+            "id":3,
+            "name":"Onix",
+            "type":"Roca y Tierra",
+            "height":224.61,
+            "weight":8.88,
+            "des":"gusano de rocas gigante",
+            "figure":"https://drive.google.com/uc?export=view&id=14KyoTXDNJBRxX3ImlaehC364quALDwyD"        
+        },
+        {
+            "id":4,
+            "name":"seel",
+            "type":"Agua",
+            "height":123.42,
+            "weight":1.3,
+            "des":"foca marina con movimientos acuaticos",
+            "figure":"https://drive.google.com/uc?export=view&id=1gr0WsaWNiyZ84bl4dcF_OgcYzgSD9X90"  
+        },
+        {
+            "id":5,
+            "name":"pikachu",
+            "typo":"Electrico",
+            "height":3.68,
+            "weight":0.34,
+            "des":"Rata amarilla con poderes de true",
+            "figure":"https://drive.google.com/uc?export=view&id=1UStMYEgndeD7RSJ09J9yT-MR7OhabsGc"      
+        }
+    ]
+}
